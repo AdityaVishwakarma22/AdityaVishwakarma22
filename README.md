@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 _(Immediate joiner, Ready to relocate)_
 
-- 🔭 I’m currently working on learning as many technologies as I can... 
+- 🔭 I’m currently working on learning as many technologies as I can... (HTML,CSS,JavaScript,React.js,Redux,Git..)
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on Frontend projects
 - 📫 Contact me: 22avkvishwakarma22@gmail.com |☎️ **9306504386**
